@@ -7,3 +7,4 @@ Utilizando la api de [Pexels](https://www.pexels.com/es-es/api/), la cual básic
 Además cada item que devuelve la api cuenta con el nombre del fotográfo que tomó la foto, por lo que se mostrará esa información mediante un modal al hacer click sobre una foto.
 
 Se agrego el modal de SweetAlert donde se muestra la foto en un tamaño más grande además del nombre de su fotógrafo. Adicionalmente, se agregó un botón que nos permite volver a la parte superior de la página cuando se realiza mucho scroll hacia abajo.
+# walter-monachesi-final-javascript
